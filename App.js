@@ -10,7 +10,7 @@ function Item({ item }) {
         <Text>{item.position}</Text>
       </View>
       <TouchableOpacity style={{height:50,width:50, justifyContent:"center",alignItems:"center"}}>
-        <Text style={{color:"green"}}>Call</Text>
+        <Text style={{color:"green"}}>Call </Text>
       </TouchableOpacity>
     </View>
   );
